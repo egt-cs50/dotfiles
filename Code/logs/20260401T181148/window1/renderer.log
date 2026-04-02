@@ -1,0 +1,6 @@
+2026-04-01 18:11:48.658 [info] Started local extension host with pid 4043.
+2026-04-01 18:11:49.201 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-01 18:11:49.390 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-04-01 18:11:51.357 [info] [perf] Render performance baseline is 20ms
+2026-04-01 18:14:11.533 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-04-01 18:16:47.511 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

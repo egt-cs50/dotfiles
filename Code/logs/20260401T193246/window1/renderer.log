@@ -1,0 +1,4 @@
+2026-04-01 19:32:46.680 [info] Started local extension host with pid 27743.
+2026-04-01 19:32:48.885 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-01 19:32:51.119 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-04-01 19:32:51.385 [info] [perf] Render performance baseline is 15ms

@@ -1,0 +1,6 @@
+2026-03-30 23:01:38.195 [info] Getting Manifest... akamud.vscode-theme-onedark
+2026-03-30 23:01:38.356 [info] Installing extension: akamud.vscode-theme-onedark {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/egt/.vscode/extensions/extensions.json","path":"/home/egt/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.113.0","date":"2026-03-24T15:07:18+01:00"}}
+2026-03-30 23:01:40.001 [info] Extension signature verification result for akamud.vscode-theme-onedark: Success. Internal Code: 0. Executed: true. Duration: 1043ms.
+2026-03-30 23:01:40.032 [info] Extracted extension to file:///home/egt/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0: akamud.vscode-theme-onedark
+2026-03-30 23:01:40.035 [info] Renamed to /home/egt/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2026-03-30 23:01:40.052 [info] Extension installed successfully: akamud.vscode-theme-onedark vscode-userdata:/home/egt/.vscode/extensions/extensions.json

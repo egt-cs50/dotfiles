@@ -1,0 +1,13 @@
+2026-03-30 22:59:54.961 [info] Started local extension host with pid 13288.
+2026-03-30 22:59:54.994 [info] Started initializing default profile extensions in extensions installation folder. file:///home/egt/.vscode/extensions
+2026-03-30 22:59:55.100 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/egt/.vscode/extensions
+2026-03-30 22:59:55.706 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-30 22:59:55.986 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 22:59:57.995 [info] [perf] Render performance baseline is 20ms
+2026-03-30 23:00:09.808 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:00:39.214 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:00:42.922 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:00:47.410 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:01:07.619 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:02:14.805 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-03-30 23:02:23.494 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

@@ -1,0 +1,7 @@
+2026-04-01 18:40:21.066 [info] Started local extension host with pid 1869.
+2026-04-01 18:40:21.592 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-01 18:40:23.850 [info] [perf] Render performance baseline is 15ms
+2026-04-01 18:40:40.642 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/boot/grub/themes/onepiece/theme.txt' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/boot/grub/themes/onepiece/theme.txt') file:///boot/grub/themes/onepiece/theme.txt
+2026-04-01 18:40:45.257 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///boot/grub/themes/onepiece/theme.txt
+2026-04-01 18:41:10.912 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///boot/grub/themes/onepiece/theme.txt
+2026-04-01 18:41:12.186 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///boot/grub/themes/onepiece/theme.txt
